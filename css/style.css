@@ -1,0 +1,179 @@
+body{
+	padding: 30px 0 0 30px;
+}
+.nav-a{
+	color:#3D58A6;
+	font-size: 22px;
+	margin-left: 30px;
+}
+.active{
+	color:red;
+}
+.logo{
+	width: 100px;
+	margin-bottom: 28px;
+	margin-right: 50px;
+	vertical-align: middle;
+}
+.navigation{
+	display: inline-block;
+}
+.navigation-li{
+	display: inline-block;
+	margin-right: 20px;
+}
+.blue-box{
+	background: #3D58A6;
+	font-size: 48pt;
+	display: inline-block;
+	padding: 10px 7px 12px 4px;
+	height: 56px;
+}
+.month{
+	color: #3D58A6;
+	font-size: 27pt;
+}
+.face{
+	width: 270px;
+	display: inline-block;
+	margin-right: 37px;
+	vertical-align:top;
+ }
+.article-1{
+	display: inline-block;
+	width: 935px
+}
+.box{
+	margin-top: 23px;
+	width: 1246px;
+	height: 391px;
+	vertical-align: top;
+}
+.img{
+	height: 29px;
+	padding-right: 30px;
+	margin-left: 30px;
+}
+.divider{
+	display: inline-block;
+	height:30px;
+	background: blue;
+	width: 1px;
+}
+
+.top-left {
+  	position: absolute;
+  	top: 146px;
+  	left: 22px;
+  	font-size: 25pt;
+  	padding: 148px 49px 140px 118px;
+
+  }
+ .container{
+  	position: relative;
+  	text-align: top-left;
+  	color: white;
+  	margin: 25px 166px 30px 30px;
+  	font-size: 28pt;
+}
+.first{
+	width: 1170px;
+	height: 460px;
+	margin:80px 97px 125px 98px;
+}
+.h3{
+	display: inline-block;
+	font-size: 24pt;
+	color: #000000;
+	margin-left: 30px;
+	padding:124px 0 37px 98px;
+}
+.app{
+	float: left;
+	height: 100px;
+	display: inline-block;
+	padding-top: 20px;
+	
+}
+.box1{
+ 	display: inline-block;
+  	width: 570px;
+  	height: 225px;
+  	padding: 20px;    
+  	background-color:#F2F2F2;
+  	margin: 35px 0 68px 120px;
+
+}
+.box2{
+  	display: inline-block;
+  	width: 570px;
+  	height: 225px;
+  	padding: 20px;    
+  	background-color:#F2F2F2;
+  	margin: 35px 29px 68px 98px;
+}
+ .text {
+ 	margin-top: 148px;
+ 	font-size: 20pt;
+ 	color:#3D58A6;
+ }
+ .text1{
+ 	margin-top: 0;
+ 	font-size: 16pt;
+ 	margin-left: 30px;
+ }
+ .text2{
+ 	margin-top: 0;
+ 	font-size: 16pt;
+ }
+ .text3{
+ 	margin-top: 0;
+ 	margin-bottom: 282px;
+ 	font-size: 16pt;
+ 	}
+ .section{
+ 	margin-top: 30px;
+ 	margin-bottom: 90px;
+ 	background: #E6E6E6;
+ }
+ .contact{
+ 	padding: 56px 50px 0 97px;
+ 	display: inline-block;
+}
+ .contactbox{
+ 	background:#E6E6E6;
+ 	width: 1366px;
+ 	height: 570px;
+ }
+.map{
+	display: block;
+	padding: 49px 90px 55px 0;
+	float: right;
+}
+.mobile{
+	color: #808080;
+}
+.mobile1{
+	color: #3D58A6;
+}
+.boxtext{
+	font-size: 15pt;
+	margin: 27px 34px 52px 100px;
+}
+.title{
+	font-size: 20pt;
+}
+.footer-box-main{
+	margin-left: 0;
+	position: absolute;
+}
+.footer-box1{
+	margin-top: 32px;
+	position: absolute;
+	margin-left: 98px;
+}
+.footer-box{
+	margin-top: 32px;
+	position: absolute;
+	margin-left: 25px;
+}
